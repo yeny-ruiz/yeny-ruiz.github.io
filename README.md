@@ -7,7 +7,7 @@
         maximum-scale=1.0, minimum-scale=1.0">
         <link rel="stylesheet" href="css/font-awesome.min.css">
         <link href = "https://fonts.googleapis.com/css2? family = Akaya + Telivigala & display = swap" rel = "hoja de estilo">
-        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="styles.css">
       
     </head>
     <body>
