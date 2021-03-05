@@ -39,8 +39,7 @@ img{
            flex:1 1 auto;
        }
             .logo a{
-                color:#fff;
-            }
+                color:rgb(201, 28, 245);            }
             .logo a:hover{
                 color:#f11ebd;
                 font-size: 30px;
