@@ -30,10 +30,7 @@
                        <div><a href="#"><i class="fa fa-car" aria-hidden="true"></i></a></div>
                     </div>
                </div>
-               <div class="texto-principal margen-interno">
-                   <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse eaque harum earum, molestias itaque neque vero mollitia ipsum praesentium quae! Molestiae, quas perspiciatis ut quos, omnis rem quasi maxime quae cumque repudiandae deserunt veritatis voluptatibus amet error ratione. Facere aliquam doloribus tempora nobis, volup
-                    cupiditate doloremque atque nulla consectetur repellendus?</h1>
-               </div>
+              
             </header>
             <section class="section margen-interno">
                 <div class="articulos">
